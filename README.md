@@ -7,4 +7,4 @@
 - 📫 邮箱：jackson0585@163.com
 - 😄 爱好：踢球，踢毽子
 #### 公众号：
-![mark](http://cdn.jayh.club/blog/20200821/Xv31Vw2CQmcM.png?imageslim)
+![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
