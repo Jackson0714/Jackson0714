@@ -7,9 +7,6 @@
   <img align="left" alt="Kerwin's Git" width="100px" src="http://cdn.jayh.club/blog/20200825/mjmIBHNDQa1k.svg" />
 </a>
 
-<a href="https://github.com/Jackson0714">
-  <img align="left" alt="Kerwin's Github" width="30px" src="http://cdn.jayh.club/blog/20200825/nirOUlMHGyYv.svg" />
-</a>
 <a href="http://cdn.jayh.club/blog/20200824/085127482.png">
   <img align="left" alt="Kerwin's WeChat" width="30px" src="http://cdn.jayh.club/blog/20200825/hqIhbKoSEhP6.svg" />
 </a>
