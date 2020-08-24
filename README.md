@@ -5,6 +5,7 @@
 - 🤔 关注我免费赠送111本架构师书籍,1000+面试题
 - 💬 联系我：微信搜索：`悟空聊架构`
 - 📫 邮箱：jackson0585@163.com
+- 🚀 博客: [掘金](https://juejin.im/user/3773179639893229)
 - 😄 爱好：踢球，踢毽子
 #### 公众号：`悟空聊架构`，搜索`PassJava666`
 ![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
