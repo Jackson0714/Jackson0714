@@ -1,19 +1,17 @@
 ## Hi! 我是`悟空聊架构` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://juejin.im/user/3773179639893229">
-  <img align="left" alt="Kerwin's JueJin" width="35px" src="http://cdn.jayh.club/blog/20200825/S0qkWfh0icxi.svg" />
+  <img align="left" alt="Kerwin's JueJin" width="100px" src="http://cdn.jayh.club/blog/20200825/S0qkWfh0icxi.svg" />
 </a>
 <a href="https://www.cnblogs.com/jackson0714/">
-  <img align="left" alt="Kerwin's Git" width="120px" src="http://cdn.jayh.club/blog/20200825/mjmIBHNDQa1k.svg" />
+  <img align="left" alt="Kerwin's Git" width="100px" src="http://cdn.jayh.club/blog/20200825/mjmIBHNDQa1k.svg" />
 </a>
-<a href="https://segmentfault.com/u/passjava666">
-  <img align="left" alt="Kerwin's SF" width="30px" src="http://cdn.jayh.club/blog/20200825/lNbz6fNtz3UV.svg" />
-</a>
+
 <a href="https://github.com/Jackson0714">
   <img align="left" alt="Kerwin's Github" width="30px" src="http://cdn.jayh.club/blog/20200825/nirOUlMHGyYv.svg" />
 </a>
 <a href="http://cdn.jayh.club/blog/20200824/085127482.png">
-  <img align="left" alt="Kerwin's WeChat" width="32px" src="http://cdn.jayh.club/blog/20200825/hqIhbKoSEhP6.svg" />
+  <img align="left" alt="Kerwin's WeChat" width="30px" src="http://cdn.jayh.club/blog/20200825/hqIhbKoSEhP6.svg" />
 </a>
 
 <br />
