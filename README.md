@@ -7,5 +7,9 @@
 - 📫 邮箱：jackson0585@163.com
 - 🚀 博客: [掘金](https://juejin.im/user/3773179639893229)
 - 😄 爱好：踢球，踢毽子
+
+## 我的项目进展
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 公众号：`悟空聊架构`，搜索`PassJava666`
 ![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
