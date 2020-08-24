@@ -6,5 +6,5 @@
 - 💬 联系我：微信搜索：悟空聊架构
 - 📫 邮箱：jackson0585@163.com
 - 😄 爱好：踢球，踢毽子
-#### 公众号：
+#### 公众号：悟空聊架构，搜索PassJava666
 ![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
