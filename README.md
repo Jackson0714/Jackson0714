@@ -1,10 +1,10 @@
 ## Hi! 我是`悟空聊架构` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://juejin.im/user/3773179639893229">
-  <img align="left" alt="Kerwin's JueJin" width="100px" src="http://cdn.jayh.club/blog/20200825/S0qkWfh0icxi.svg" />
+  <img align="left" alt="Kerwin's JueJin" width="80px" src="http://cdn.jayh.club/blog/20200825/S0qkWfh0icxi.svg" />
 </a>
 <a href="https://www.cnblogs.com/jackson0714/">
-  <img align="left" alt="Kerwin's Git" width="100px" src="http://cdn.jayh.club/blog/20200825/mjmIBHNDQa1k.svg" />
+  <img align="left" alt="Kerwin's Git" width="80px‘" src="http://cdn.jayh.club/blog/20200825/mjmIBHNDQa1k.svg" />
 </a>
 
 <a href="http://cdn.jayh.club/blog/20200824/085127482.png">
