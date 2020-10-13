@@ -2,11 +2,11 @@
 
 >[CSDN@悟空聊架构](https://passjava.blog.csdn.net/)  
 [掘金@悟空聊架构](https://juejin.im/user/3773179639893229/posts)   
-[博客园@悟空聊架构](https://www.cnblogs.com/jackson0714/)   
-[公众号@悟空聊架构](http://cdn.jayh.club/blog/20200824/085127482.png)   
-[开源中国@悟空聊架构](https://my.oschina.net/u/4499317)
-[知乎@悟空聊架构](https://www.zhihu.com/people/passjava666)
-[思否@悟空聊架构](https://segmentfault.com/u/passjava666)
+[博客园@悟空聊架构](https://www.cnblogs.com/jackson0714/)     
+[公众号@悟空聊架构](http://cdn.jayh.club/blog/20200824/085127482.png)     
+[开源中国@悟空聊架构](https://my.oschina.net/u/4499317)   
+[知乎@悟空聊架构](https://www.zhihu.com/people/passjava666)   
+[思否@悟空聊架构](https://segmentfault.com/u/passjava666)   
 
 
 ## 悟空聊架构
