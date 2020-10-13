@@ -1,7 +1,7 @@
 ## Hi! 我是`悟空聊架构` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 >[CSDN@悟空聊架构](https://passjava.blog.csdn.net/)  
-[掘金@悟空聊架构](https://juejin.im/user/3773179639893229)   
+[掘金@悟空聊架构](https://juejin.im/user/3773179639893229/posts)   
 [博客园@悟空聊架构](https://www.cnblogs.com/jackson0714/)   
 [公众号@悟空聊架构](http://cdn.jayh.club/blog/20200824/085127482.png)   
 
