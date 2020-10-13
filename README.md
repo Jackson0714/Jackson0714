@@ -10,6 +10,8 @@
 
 
 ## 悟空聊架构
+
+- 👯 7 年一线互联网经验，擅长 架构设计、Java、分布式、微服务、中间件开发。
 - 🔭 自主开发了Java学习平台、PMP刷题小程序。整理了一份[Java在线学习教程](http://jayh2018.gitee.io/passjava-learning/#/README)
 - 🌱 目前主修Java、多线程、SpringBoot、SpringCloud、k8s。
 - 👯 本公众号不限于分享技术，也会分享工具的使用、人生感悟、读书总结。
