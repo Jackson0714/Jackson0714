@@ -22,9 +22,11 @@
 - 🚀 博客: [掘金](https://juejin.im/user/3773179639893229) [博客园](https://www.cnblogs.com/jackson0714) [Java知识库](http://jayh2018.gitee.io/passjava-learning/#/README)
 - 😄 爱好：踢球，踢毽子
 
+#### 公众号：`悟空聊架构`，搜索`PassJava666`
+![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
+![mark](https://img-blog.csdnimg.cn/20201117085848958.png?x-oss-process=image)
+
 ## 我的项目进展
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackson0714)](https://github.com/jackson0714)
 
-#### 公众号：`悟空聊架构`，搜索`PassJava666`
-![mark](https://img-blog.csdnimg.cn/20201012152224887.png)
-![mark](https://img-blog.csdnimg.cn/20201117085848958.png?x-oss-process=image)
+
