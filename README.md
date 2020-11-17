@@ -26,5 +26,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackson0714)](https://github.com/jackson0714)
 
 #### 公众号：`悟空聊架构`，搜索`PassJava666`
-![mark](https://img-blog.csdnimg.cn/20201012152224887.png)
+![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
 ![mark](https://img-blog.csdnimg.cn/20201117085848958.png?x-oss-process=image)
