@@ -23,7 +23,7 @@
 - 😄 爱好：踢球，踢毽子
 
 #### 公众号：`悟空聊架构`，搜索`PassJava666`
-![mark](http://cdn.jayh.club/blog/20200821/K75cFsVS4EbR.jpg?imageslim)
+![mark](https://img-blog.csdnimg.cn/20201224103647797.png)
 ![mark](https://img-blog.csdnimg.cn/20201117085848958.png?x-oss-process=image)
 
 ## 我的项目进展
