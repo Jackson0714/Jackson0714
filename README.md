@@ -24,7 +24,7 @@
 
 #### 公众号：`悟空聊架构`，搜索`PassJava666`
 ![mark](https://img-blog.csdnimg.cn/20201224103647797.png)
-![mark](https://img-blog.csdnimg.cn/20201117085848958.png?x-oss-process=image)
+![mark](https://img-blog.csdnimg.cn/20210118163747863.png)
 
 ## 我的项目进展
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackson0714)](https://github.com/jackson0714)
