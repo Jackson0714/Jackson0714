@@ -26,7 +26,6 @@
 ![公众号：悟空聊架构](https://img-blog.csdnimg.cn/20201224103647797.png)
 ![微信：passjava](https://img-blog.csdnimg.cn/2021030222165968.png)
 ![分布式算法总结&SpringCloud教程](https://oscimg.oschina.net/oscnet/9c17f118-7159-4de6-bc80-2824b103a9f8.png)
-![公众号](https://oscimg.oschina.net/oscnet/1268c852-56c8-4481-ac00-a0c354901046.png)
 
 ## 我的项目进展
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackson0714)](https://github.com/jackson0714)
