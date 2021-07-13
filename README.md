@@ -27,6 +27,9 @@
 ![微信：passjava](https://img-blog.csdnimg.cn/2021030222165968.png)
 ![分布式算法总结&SpringCloud教程](https://oscimg.oschina.net/oscnet/9c17f118-7159-4de6-bc80-2824b103a9f8.png)
 
+![image](https://user-images.githubusercontent.com/18358398/125381715-f9dd6d00-e3c6-11eb-8286-b4a27384eaea.png)
+
+
 ## 我的项目进展
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackson0714)](https://github.com/jackson0714)
 
