@@ -1,19 +1,10 @@
 ## Hi! 我是`悟空聊架构` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 >[个人网站 www.passjava.cn](http://www.passjava.cn)  
->[CSDN@悟空聊架构](https://passjava.blog.csdn.net/)  
-[掘金@悟空聊架构](https://juejin.im/user/3773179639893229/posts)   
-[博客园@悟空聊架构](https://www.cnblogs.com/jackson0714/)     
-[公众号@悟空聊架构](http://cdn.jayh.club/blog/20200824/085127482.png)     
-[开源中国@悟空聊架构](https://my.oschina.net/u/4499317)   
-[知乎@悟空聊架构](https://www.zhihu.com/people/passjava666)   
-[思否@悟空聊架构](https://segmentfault.com/u/passjava666)   
-
-![知识星球](https://user-images.githubusercontent.com/18358398/125381715-f9dd6d00-e3c6-11eb-8286-b4a27384eaea.png)
 
 ## 悟空聊架构
 
-- 👯 7 年一线互联网经验，擅长 架构设计、Java、分布式、微服务、中间件开发。
+- 👯 8 年一线互联网经验，擅长 架构设计、Java、分布式、微服务、中间件开发。
 - 🔭 自主开发了Java学习平台、PMP刷题小程序。整理了一份[Java在线学习教程](http://www.passjava.cn)
 - 🌱 目前主修Java、多线程、SpringBoot、SpringCloud、k8s。
 - 👯 本公众号不限于分享技术，也会分享工具的使用、人生感悟、读书总结。
@@ -28,7 +19,13 @@
 ![微信：passjava](https://img-blog.csdnimg.cn/2021030222165968.png)
 ![分布式算法总结&SpringCloud教程](https://oscimg.oschina.net/oscnet/9c17f118-7159-4de6-bc80-2824b103a9f8.png)
 
-
+>[CSDN@悟空聊架构](https://passjava.blog.csdn.net/)  
+[掘金@悟空聊架构](https://juejin.im/user/3773179639893229/posts)   
+[博客园@悟空聊架构](https://www.cnblogs.com/jackson0714/)     
+[公众号@悟空聊架构](http://cdn.jayh.club/blog/20200824/085127482.png)     
+[开源中国@悟空聊架构](https://my.oschina.net/u/4499317)   
+[知乎@悟空聊架构](https://www.zhihu.com/people/passjava666)   
+[思否@悟空聊架构](https://segmentfault.com/u/passjava666)   
 
 
 ## 我的项目进展
