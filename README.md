@@ -14,7 +14,7 @@
 - 🚀 博客: [掘金](https://juejin.im/user/3773179639893229) [博客园](https://www.cnblogs.com/jackson0714) [Java知识库](http://jayh2018.gitee.io/passjava-learning/#/README)
 - 😄 爱好：踢球，踢毽子
 
-#### 公众号：`悟空聊架构`，搜索`PassJava666`
+#### 公众号：`悟空聊架构`，搜索`PassJava666` 或扫下方二维码加我好友哦~
 ![公众号：悟空聊架构](https://img-blog.csdnimg.cn/20201224103647797.png)
 ![微信：passjava](https://img-blog.csdnimg.cn/2021030222165968.png)
 ![分布式算法总结&SpringCloud教程](https://oscimg.oschina.net/oscnet/9c17f118-7159-4de6-bc80-2824b103a9f8.png)
