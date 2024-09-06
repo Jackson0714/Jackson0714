@@ -16,11 +16,12 @@
 
 ## 我的开源项目
 
-| 项目名                                                       | 地址                                                         | 说明                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
-| [docsify-generate-sidebar](https://github.com/Jackson0714/docsify-generate-sidebar) | <a href='https://github.com/Jackson0714/docsify-generate-sidebar/stargazers'><img src='https://img.shields.io/github/forks/Jackson0714/docsify-generate-sidebar' alt='star'></img></a> <img src='https://img.shields.io/github/forks/Jackson0714/docsify-generate-sidebar' alt='fork'></img> | 一键生成 docsify 的侧边栏 |
-|                                                              |                                                              |                           |
-|                                                              |                                                              |                           |
+| 项目名                                                       | Stars                                                        | Forks | 说明                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ------------------------- |
+| [docsify-generate-sidebar](https://github.com/Jackson0714/docsify-generate-sidebar) | <a href='https://github.com/Jackson0714/docsify-generate-sidebar/stargazers'><img src='https://img.shields.io/github/stars/Jackson0714/docsify-generate-sidebar' alt='star'></img></a>  | <a href='https://github.com/Jackson0714/docsify-generate-sidebar/network/members'><img src='https://img.shields.io/github/forks/Jackson0714/docsify-generate-sidebar' alt='fork'></img></a>      | 一键生成 docsify 的侧边栏 |
+|                                                              |                                                              |       |                           |
+|                                                              |                                                              |       |                           |
+
 
 
 
